@@ -1,2 +1,2 @@
 # git_test
-Hello Odin!
+Hello Odin! This is the first project to use the git and github first I did not have used it before but now I am happy to use the developers tools to developer the first good quality project, before that I was always using only vs to edit my projects.
